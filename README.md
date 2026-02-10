@@ -59,7 +59,8 @@ COGS Management: If trend lines show COGS rising faster than revenue, a review o
 Regional Focus: Target underperforming regions identified by the Budget vs. Actual variance for strategic intervention.
 
 🖼️ Dashboard Preview
-<img width="1915" height="997" alt="Screenshot 2026-02-07 214818" src="https://github.com/user-attachments/assets/ecdcf5b6-df9b-45e4-96b3-e2c29056e8e3" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-10 202815" src="https://github.com/user-attachments/assets/acdfa8b1-1e10-4f46-b4ba-4dddb0ef6a97" />
+
 
 
 📂 Deliverables
