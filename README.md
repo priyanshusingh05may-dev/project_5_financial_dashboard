@@ -23,6 +23,4 @@ The business lacked a unified view of financial performance. Key challenges incl
 * **Automated Collections:** Implement automated reminders for regions with aging >60 days.
 * **COGS Audit:** Conduct a supplier review for product lines where revenue growth is decoupled from profit.
 
-## Dashboard Preview
-![Dashboard Screenshot](path/to/your/screenshot.png)
 
